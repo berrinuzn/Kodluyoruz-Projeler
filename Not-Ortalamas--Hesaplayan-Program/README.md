@@ -1,0 +1,2 @@
+# Not-Ortalaması-Hesaplayan-Program
+ 

@@ -1,0 +1,2 @@
+# Harmonik-Seri-Toplam-Bulma
+ 
